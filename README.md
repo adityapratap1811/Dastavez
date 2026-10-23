@@ -15,7 +15,6 @@
 
 ![Dastavez Architecture](./docs/architecture.svg)
 
-- **Live Application Demo:** [https://dastavez.vercel.app](https://dastavez.vercel.app) *(or run locally via `npm run dev`)*
 - **Offline Demo Mode:** Supports zero-latency judging with pre-cached Hindi & English audio and document samples via `?demo=1`.
 
 ---
